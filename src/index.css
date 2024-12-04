@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+:root {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+
+  --bg-color-dark: #242424;
+  --bg-text-dark: #213547;
+
+  --dark-color: #424242;
+  --gray-color: #706f6f;
+
+  --primary-color: #ee2b7b;
+  --primary-hover-color: #e31369;
+  --primary-disabled: #ee2b7b84;
+
+  --secoundary-color: #009ee2;
+  --secoundary-hover-color: #1177a2;
+  --secoundary-disabled: #009ee2aa;
+
+  --terciary-color: #e3e3e3;
+  --terciary-hover-color: #c3c3c3;
+  --terciary-disabled: #e3e3e384;
+
+  --red-color: #e4003a;
+  --red-color-dark: #7e0020;
+
+  --orange-color: #ff8225;
+  --orange-color-dark: #cc681e;
+
+  --yellow-color: #ffde4d;
+  --yellow-color-dark: #ccb23e;
+
+  --green-light-color: #d2de32;
+  --green-light-color-dark: #adb729;
+
+  --green-dark-color: #399918;
+  --green-dark-color-dark: #266610;
+
+  --active-color: #22c55e;
+  --inactive-color: #ef4444;
+
+  accent-color: var(--primary-color);
+  background-color: var(--bg-color-dark);
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    background-color: #ffffff;
+    color: var(--bg-text-dark);
+  }
+}

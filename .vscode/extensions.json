@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "amazonwebservices.amazon-q-vscode",
+    "formulahendry.auto-close-tag",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "heybourn.headwind",
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold",
+    "meganrogge.template-string-converter",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens"
+  ]
+}

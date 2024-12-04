@@ -1,0 +1,74 @@
+[
+  {
+    "idGlosario": 1,
+    "nombreGlosario": "Gestión del cambio",
+    "textoGlosario": "Busca facilitar y conseguir la implementación exitosa de los procesos de transformación, lo que implica trabajar con y para las personas en la aceptación y asimilación de los cambios y en la reducción de la resistencia, facilitando la aceptación y asimilación de los cambios, producto de una nueva forma de operación.",
+    "imagen": "/icons/ArrowsClockwise.svg"
+  },
+  {
+    "idGlosario": 2,
+    "nombreGlosario": "Conectividad",
+    "textoGlosario": "Es la interconexión de toda cadena de valor vía móvil o banda ancha, permite sincronizar cadenas logísticas, acortar plazos de entrega y ciclos de innovación. Es la clave de la transformación digital, la red es fundamental para asegurar agilidad, seguridad y flexibilidad que hoy se requieren para los procesos de negocio.",
+    "imagen": "/icons/WifiHigh.svg"
+  },
+  {
+    "idGlosario": 3,
+    "nombreGlosario": "Información digital",
+    "textoGlosario": "Disponibilidad de la información digital en la empresa en las etapas: captura, procesamiento y análisis de la información digital, que permite mejorar las predicciones y toma de decisiones. Implica acceso a todo tipo de información de forma instantánea, accesible y masiva.",
+    "imagen": "/icons/Computer.svg"
+  },
+  {
+    "idGlosario": 4,
+    "nombreGlosario": "Analítica de negocios",
+    "textoGlosario": "Son los conocimientos, tecnologías y prácticas para la investigación y exploración continuamente interactiva del rendimiento del negocio para ganar visión y capacidad de dirección en la planificación del negocio. Es un proceso asistido por tecnologías, mediante el cual el software analiza los datos para predecir lo que sucederá (análisis predictivo) o lo que podrá suceder tomando un cierto enfoque (analítica prescriptiva).",
+    "imagen": "/icons/AnaliticaNegocios.svg"
+  },
+  {
+    "idGlosario": 5,
+    "nombreGlosario": "IoT - Internet de las cosas",
+    "textoGlosario": "Interconexión digital de objetos cotidianos con internet, es la conexión a internet más con objetos que con personas, también se puede conocer como internet de todas las cosas o internet en las cosas. Si los objetos en la vida cotidiana tuvieran incorporadas etiquetas de radio, podrían ser identificados y gestionados por otros equipos de la misma manera que si fuesen por seres humanos.",
+    "imagen": "/icons/IoT.svg"
+  },
+  {
+    "idGlosario": 6,
+    "nombreGlosario": "Transformación digital",
+    "textoGlosario": "Parte del cambio de naturaleza e productos y servicios de las empresas tradicionales., es la oportunidad estratégica de incorporar nuevas tecnologías, pero sobre todo nuevas lógicas, para que el negocio sea más eficiente y permita nuevas oportunidades. Es un proceso necesario actualmente para que las empresas puedan competir en los mercados cada vez más globalizados y conectados.",
+    "imagen": "/icons/DesktopTower.svg"
+  },
+  {
+    "idGlosario": 7,
+    "nombreGlosario": "Automatización",
+    "textoGlosario": "La automatización de procesos en la organización de tareas y en los planes de negocio permite ganar en autonomía y flexibilidad en el funcionamiento interno y ofrecer un servicio y un producto flexible, adaptado y escalable a nuestro entorno.",
+    "imagen": "/icons/Robot.svg"
+  },
+  {
+    "idGlosario": 8,
+    "nombreGlosario": "Inteligencia de negocios",
+    "textoGlosario": "Habilidad de aprender las relaciones de hechos presentados de forma que guíen las acciones hacia una meta deseada. Es un término sombrilla que incluye aplicaciones, infraestructura, herramientas y las mejores prácticas que facilitan el acceso y análisis de información para mejorar y optimizar decisiones y rendimiento o desempeño. La Inteligencia de negocios se refiere al proceso de convertir datos en conocimiento y conocimiento en acciones para crear la ventaja competitiva del negocio.",
+    "imagen": "/icons/Bank.svg"
+  },
+  {
+    "idGlosario": 9,
+    "nombreGlosario": "Ciberseguridad",
+    "textoGlosario": "El conjunto de todas las posibles acciones y herramientas que busca proteger de amenazas digitales toda la infraestructura de una organización como redes, software, datos y equipos.",
+    "imagen": "/icons/ShieldChevron.svg"
+  },
+  {
+    "idGlosario": 10,
+    "nombreGlosario": "IA - Inteligencia artificial",
+    "textoGlosario": "Se refiere a cualquier técnica que permita a las computadoras imitar la inteligencia humana usando lógica, reglas, árboles de decisión y aprendizaje automático.",
+    "imagen": "/icons/HeadCircuit.svg"
+  },
+  {
+    "idGlosario": 11,
+    "nombreGlosario": "Computación en la nube - Cloud computing",
+    "textoGlosario": "Un modelo que permite el acceso bajo demanda a través de la Red a un conjunto compartido de recursos de computación configurables (redes, servidores, almacenamiento, aplicaciones y servicios) que se pueden aprovisionar rápidamente con el mínimo esfuerzo de gestión o interacción del proveedor del servicio (NIST).",
+    "imagen": "/icons/FileCloud.svg"
+  },
+  {
+    "idGlosario": 12,
+    "nombreGlosario": "Big data",
+    "textoGlosario": "Conjunto de estrategias, tecnologías y sistemas para el almacenamiento, procesamiento, análisis y visualización de conjuntos de datos complejos, que frecuentemente, pero no siempre, viene definida por volumen, velocidad y variedad.",
+    "imagen": "/icons/BigData.svg"
+  }
+]

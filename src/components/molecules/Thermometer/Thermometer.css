@@ -1,0 +1,18 @@
+:root {
+  --level-height: 112px;
+  --level-round-height: 128px;
+  --thermometer-padding-top: 24px;
+  --thermometer-padding-bottom: 24px;
+
+  --thermometer-height: 596px;
+  --thermometer-height-with-border: 644px;
+  --thermometer-height-without-circle: calc(
+    var(--thermometer-height) - var(--level-round-height)
+  );
+}
+
+@media (min-width: 640px) {
+  #levels div:nth-child(5) {
+    height: var(--level-round-height);
+  }
+}
